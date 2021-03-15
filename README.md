@@ -1,4 +1,4 @@
-<H2>Example dorks</h2>
+<H2>Example Telegram Google Dorks</h2>
 
 <pre spellcheck="false">site:t.me
 
